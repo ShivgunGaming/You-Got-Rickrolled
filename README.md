@@ -2,6 +2,8 @@
 
 This Python script displays an animated GIF of a classic internet meme ("Rickroll") and plays the corresponding audio ("Never Gonna Give You Up" by Rick Astley). It utilizes the tkinter, pygame, and PIL libraries to achieve this.
 
+![image](https://github.com/ShivgunGaming/You-Got-Rickrolled/assets/102505925/016bfcad-24ed-4d57-9cd7-e0ba625f5dd9)
+
 ## Requirements
 
 - Python 3.x
