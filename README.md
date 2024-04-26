@@ -22,7 +22,6 @@ This Python script displays an animated GIF of a classic internet meme ("Rickrol
 
 ## Credits
 
-- Original GIF: [rickroll.gif](https://giphy.com/gifs/mrw-happened-weekly-dose-13XWd52x7hLQdK)
 - Audio: "Never Gonna Give You Up" by Rick Astley
 
 ## License
