@@ -16,6 +16,17 @@ This Python script displays an animated GIF of a classic internet meme ("Rickrol
 1. Make sure you have Python installed on your system.
 2. Install the required libraries using pip:
 
+```bash
+# Install tkinter (if not already installed)
+pip install tk
+
+# Install pygame
+pip install pygame
+
+# Install PIL
+pip install pillow
+```
+
 
 3. Make sure the `rickroll.gif` and `rickroll.mp3` files in the same directory as the script.
 4. Run the script using Python: `python gui.py`
