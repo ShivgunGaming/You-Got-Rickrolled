@@ -31,7 +31,7 @@ pip install pillow
 3. Make sure the `rickroll.gif` and `rickroll.mp3` files in the same directory as the script.
 4. Run the script using Python: `python gui.py`
 
-5. Enjoy the rickroll!
+5. Enjoy the rickroll boi!
 
 ## Credits
 
